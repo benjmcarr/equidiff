@@ -1,3 +1,4 @@
 setuptools_rust
 transformers
 diffusers[torch]
+imageio[ffmpeg]
